@@ -1,3 +1,4 @@
+// @ts-ignore
 import React from "react";
 import { Modal, Button, Input } from "antd";
 import { IRepo } from "../../stores/ListStore";

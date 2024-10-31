@@ -1,4 +1,6 @@
-import React, { useCallback, useEffect, useRef, useState } from "react";
+// @ts-ignore
+import React from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import { observer } from "mobx-react-lite";
 import { IRepo, listStore } from "../../stores/ListStore";
 import { Spin, List, Typography, Layout } from "antd";
