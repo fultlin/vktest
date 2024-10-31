@@ -1,0 +1,25 @@
+.item {
+    background-color: #eceaea !important;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    transition: all 0.1s ease-in-out;
+}
+
+.item:hover {
+    cursor: pointer;
+    scale: 1.1;
+}
+
+.title {
+    color: #0c0c0c !important;
+    font-size: 24px;
+}
+
+.title:hover {
+    cursor: pointer;
+    color: rgb(68, 243, 243) !important;
+}
+
+.content {
+    background-color: #eceaea !important;
+}

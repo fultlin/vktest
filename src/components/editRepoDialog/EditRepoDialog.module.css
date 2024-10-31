@@ -1,0 +1,10 @@
+.repodialog {
+    background-color: #131313;
+    color: #eceaea !important;
+    padding-bottom: 0;
+    border-radius: 10px;
+}
+
+.button span{
+    color: #131313 !important;
+}
